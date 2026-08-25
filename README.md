@@ -4,7 +4,9 @@ Systems & network engineer with 20+ years of experience keeping IT infrastructur
 
 ## Skills & Technologies
 
-![Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,docker,git,github,nginx,mysql,vim,windows)
+![Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,docker,git,github,nginx,mysql,postgres,vim,windows)
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=hyperv&logoColor=white)
 
 ## 💼 Experience
 

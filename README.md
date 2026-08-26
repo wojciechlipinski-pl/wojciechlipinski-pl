@@ -6,8 +6,6 @@ Systems & network engineer with 20+ years of experience keeping IT infrastructur
 
 ![Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,docker,git,github,nginx,mysql,postgres,vim,windows)<img src="https://raw.githubusercontent.com/wojciechlipinski-pl/wojciechlipinski-pl/main/icons/custom-skills.png" height="48" alt="VMware, Apache">
 
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=hyperv&logoColor=white)
-
 ## 💼 Experience
 
 Over 20 years managing IT infrastructure: servers, networks (LAN/WAN, VPN, wireless), Active Directory, virtualization, and information security. Earlier experience includes Solaris, Linux Slackware, and Novell NetWare in banking IT, plus freelance network consulting (LAN/WAN builds, Apache/PHP web servers).
